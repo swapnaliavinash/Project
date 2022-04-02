@@ -1,0 +1,49 @@
+.frontt{
+    background: url("./../image/image1.jpeg") no-repeat center  center fixed; 
+    
+    background-repeat:no-repeat;
+    background-size: cover;
+    margin: auto;
+  padding: 5px;
+  overflow-x: inherit;
+  max-width: 500%;
+  height: 730px;
+
+  
+    
+  
+    background-color:pink;
+  }
+  .btn{
+    background-color:red;
+  }
+
+
+
+/* .home_img{
+    width:100%;
+    z-index:-1;
+    margin-bottom:-150px;
+    mask-image: linear-gradient(to bottom,rgba(0,0,0,1),rgba(0,0,0,0));
+ 
+}
+.home_row{
+    display: flex;
+    z-index: 1;
+    margin-left: 5px;
+    float:left;
+    margin-right: 5px;
+}
+.home{
+    display: flex;
+    justify-content:center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1500px;
+}
+.home_container >p{
+    margin-top:100px;
+    color:Black;
+    font-weight:bolder;
+    font-size:35px;
+} */
